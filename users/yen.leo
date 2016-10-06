@@ -354,7 +354,7 @@ apply broader style changes, like switching the page background.
 
 </t>
 <t tx="amd.20161004083800.8">&lt;section&gt;
-    &lt;h1&gt;40423104 電腦輔助設計與實習&lt;/h1&gt;
+    &lt;h1&gt;40423104 顏暄&lt;/h1&gt;
     &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
     &lt;p&gt;
     &lt;small&gt;
@@ -468,7 +468,7 @@ make.start()
 
 						
 </t>
-<t tx="amd.20161004095719.2"># 2016Fall CPA 計算機程式課程
+<t tx="amd.20161004095719.2"># 2016Fall CPA 課程
 
 ### THE HTML PRESENTATION FRAMEWORK
 
