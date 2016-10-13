@@ -31,6 +31,9 @@
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="amd.20161004083800.8"><vh>HTML 投影片 (標題)</vh></v>
+<v t="leo.20161013161207.1" a="E"><vh>影片</vh>
+<v t="leo.20161013161207.2"><vh>機械設計主題教學</vh></v>
+</v>
 <v t="amd.20161004104820.1" a="E"><vh>三大主題教學</vh>
 <v t="amd.20161004104641.1" a="E"><vh>主題教學</vh>
 <v t="amd.20161004104641.2"><vh>機械設計主題教學</vh></v>
@@ -863,5 +866,20 @@ Diff...
 <t tx="leo.20161006154651.7">2016 Fall 計算機程式課程
 </t>
 <t tx="leo.20161006154651.8"></t>
+<t tx="leo.20161013161207.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013161207.2"># 影片
+
+&lt;iframe src="https://player.vimeo.com/video/186445993" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/186445993"&gt;solvespace&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
 </tnodes>
 </leo_file>
