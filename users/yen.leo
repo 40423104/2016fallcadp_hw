@@ -884,11 +884,10 @@ Diff...
 @others
     &lt;/script&gt;
 &lt;/section&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 
 
-						
-</t>
+
+				</t>
 <t tx="leo.20161013161207.2"># 影片
 
 &lt;iframe src="https://player.vimeo.com/video/186445993" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -900,15 +899,7 @@ Diff...
 @others
     &lt;/script&gt;
 &lt;/section&gt;
-
-
-						
-=======
-	
-	
-	
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 5d02149dfe18ec27c494336b0dab00465bb423e8
-</t>
+		</t>
 <t tx="leo.20161020160508.2">&lt;h2&gt;心得&lt;/h2&gt;
 
 &lt;p&gt;此上課內容與之前一年級的內容有了新的不同，從課程中我們運用老師教的軟體，讓我們對繪圖有了新的體驗與認知。&lt;/p&gt;
