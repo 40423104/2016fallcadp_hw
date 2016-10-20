@@ -126,6 +126,16 @@
 <v t="leo.20161006154651.8"><vh>new:&lt;&lt; 投影片標題 &gt;&gt;</vh></v>
 </v>
 </v>
+<v t="leo.20161020161828.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161020161828.2"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20161020161828.3"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20161020161828.4"><vh>new:封面投影片內容</vh></v>
+</v>
+<v t="leo.20161020161828.5"><vh>Recovered node "影片" from @clean index.html</vh>
+<v t="leo.20161020161828.6"><vh>old:影片</vh></v>
+<v t="leo.20161020161828.7"><vh>new:影片</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
@@ -474,7 +484,7 @@ make.start()
 
 						
 </t>
-<t tx="amd.20161004095719.2"># 2016Fall CPA 課程
+<t tx="amd.20161004095719.2"># 電腦輔助設計與實習
 
 ### THE HTML PRESENTATION FRAMEWORK
 
@@ -874,6 +884,7 @@ Diff...
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 
 
 						
@@ -892,11 +903,84 @@ Diff...
 
 
 						
+=======
+	
+	
+	
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 5d02149dfe18ec27c494336b0dab00465bb423e8
 </t>
 <t tx="leo.20161020160508.2">&lt;h2&gt;心得&lt;/h2&gt;
 
 &lt;p&gt;此上課內容與之前一年級的內容有了新的不同，從課程中我們運用老師教的軟體，讓我們對繪圖有了新的體驗與認知。&lt;/p&gt;
 
+</t>
+<t tx="leo.20161020161828.1"></t>
+<t tx="leo.20161020161828.2">(uncached) amd.20161004095719.2
+Diff...
+- # 電腦輔助設計與實習
++ # 2016Fall CPA 課程
+  
+  ### THE HTML PRESENTATION FRAMEWORK
+  
+  &lt;small&gt;
+  Created by [Hakim El Hattab](http://hakim.se)
+  [@hakimel](http://twitter.com/hakimel)
+  &lt;/small&gt;
+  
+  [blog](blog/index.html)
+</t>
+<t tx="leo.20161020161828.3"># 2016Fall CPA 課程
+
+### THE HTML PRESENTATION FRAMEWORK
+
+&lt;small&gt;
+Created by [Hakim El Hattab](http://hakim.se)
+[@hakimel](http://twitter.com/hakimel)
+&lt;/small&gt;
+
+[blog](blog/index.html)
+</t>
+<t tx="leo.20161020161828.4"># 電腦輔助設計與實習
+
+### THE HTML PRESENTATION FRAMEWORK
+
+&lt;small&gt;
+Created by [Hakim El Hattab](http://hakim.se)
+[@hakimel](http://twitter.com/hakimel)
+&lt;/small&gt;
+
+[blog](blog/index.html)
+</t>
+<t tx="leo.20161020161828.5">(uncached) leo.20161013161207.1
+Diff...
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+- &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+  
+  
+  						
+</t>
+<t tx="leo.20161020161828.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161020161828.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
+
+						
 </t>
 </tnodes>
 </leo_file>
