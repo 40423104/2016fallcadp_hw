@@ -31,8 +31,11 @@
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="amd.20161004083800.8"><vh>HTML 投影片 (標題)</vh></v>
-<v t="leo.20161013161207.1" a="E"><vh>影片</vh>
+<v t="leo.20161013161207.1"><vh>影片</vh>
 <v t="leo.20161013161207.2"><vh>機械設計主題教學</vh></v>
+</v>
+<v t="leo.20161020160508.1" a="E"><vh>心得</vh>
+<v t="leo.20161020160508.2"><vh>心得</vh></v>
 </v>
 <v t="amd.20161004104820.1" a="E"><vh>三大主題教學</vh>
 <v t="amd.20161004104641.1" a="E"><vh>主題教學</vh>
@@ -879,6 +882,20 @@ Diff...
 
 &lt;iframe src="https://player.vimeo.com/video/186445993" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/186445993"&gt;solvespace&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20161020160508.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161020160508.2">&lt;h2&gt;心得&lt;/h2&gt;
+
+&lt;p&gt;此上課內容與之前一年級的內容有了新的不同，從課程中我們運用老師教的軟體，讓我們對繪圖有了新的體驗與認知。&lt;/p&gt;
 
 </t>
 </tnodes>
