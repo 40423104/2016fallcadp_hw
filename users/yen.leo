@@ -18,8 +18,8 @@
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
-<v t="amd.20151216151325.1"><vh>@clean index.html</vh>
+<v t="amd.20151215180106.1"><vh>設定與開發</vh>
+<v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2" a="E"><vh>head</vh>
 <v t="amd.20161004083800.3"><vh>&lt;&lt; 投影片標題 &gt;&gt;</vh></v>
@@ -31,7 +31,7 @@
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="amd.20161004083800.8"><vh>HTML 投影片 (標題)</vh></v>
-<v t="leo.20161013161207.1"><vh>影片</vh>
+<v t="leo.20161013161207.1" a="E"><vh>影片</vh>
 <v t="leo.20161013161207.2"><vh>機械設計主題教學</vh></v>
 </v>
 <v t="leo.20161020160508.1" a="E"><vh>心得</vh>
@@ -124,26 +124,6 @@
 </v>
 </v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
-<v t="leo.20161006154651.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20161006154651.3"><vh>Recovered node "head" from @clean index.html</vh>
-<v t="leo.20161006154651.4"><vh>old:head</vh></v>
-<v t="leo.20161006154651.5"><vh>new:head</vh></v>
-</v>
-<v t="leo.20161006154651.6"><vh>Recovered node "&lt;&lt; 投影片標題 &gt;&gt;" from @clean index.html</vh>
-<v t="leo.20161006154651.7"><vh>old:&lt;&lt; 投影片標題 &gt;&gt;</vh></v>
-<v t="leo.20161006154651.8"><vh>new:&lt;&lt; 投影片標題 &gt;&gt;</vh></v>
-</v>
-</v>
-<v t="leo.20161020161828.1" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20161020161828.2"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
-<v t="leo.20161020161828.3"><vh>old:封面投影片內容</vh></v>
-<v t="leo.20161020161828.4"><vh>new:封面投影片內容</vh></v>
-</v>
-<v t="leo.20161020161828.5"><vh>Recovered node "影片" from @clean index.html</vh>
-<v t="leo.20161020161828.6"><vh>old:影片</vh></v>
-<v t="leo.20161020161828.7"><vh>new:影片</vh></v>
-</v>
-</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
@@ -776,117 +756,6 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
 
 DEFAULT_DATE = 'fs'</t>
-<t tx="leo.20161006154651.2"></t>
-<t tx="leo.20161006154651.3">(uncached) amd.20161004083800.2
-Diff...
-  &lt;head&gt;
-      &lt;meta charset="utf-8"&gt;
-+     &lt;title&gt;&lt;&lt; 投影片標題 &gt;&gt;&lt;/title&gt;
--     &lt;title&gt;    2016 Fall 計算機程式課程
--     &lt;&lt; 投影片標題 &gt;&gt;
-- &lt;/title&gt;
-      &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
-      &lt;meta name="author" content="Hakim El Hattab"&gt;
-      
-      &lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;
-      &lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"&gt;
-      
-      &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
-      
-      &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/reveal.css"&gt;
-      &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css" id="theme"&gt;
-      
-      &lt;!-- Theme used for syntax highlighting of code --&gt;
-      &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/lib/css/zenburn.css"&gt;
-  
-      &lt;!-- Printing and PDF exports --&gt;
-      &lt;script&gt;
-          var link = document.createElement( 'link' );
-          link.rel = 'stylesheet';
-          link.type = 'text/css';
-          link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cad-lab.github.io/cadlab_data/reveal/css/print/pdf.css' : 'https://cad-lab.github.io/cadlab_data/reveal/css/print/paper.css';
-          document.getElementsByTagName( 'head' )[0].appendChild( link );
-      &lt;/script&gt;
-  
-      &lt;!--[if lt IE 9]&gt;
-      &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/html5shiv.js"&gt;&lt;/script&gt;
-      &lt;![endif]--&gt;
-  &lt;/head&gt;
-  
-</t>
-<t tx="leo.20161006154651.4">&lt;head&gt;
-    &lt;meta charset="utf-8"&gt;
-    &lt;title&gt;&lt;&lt; 投影片標題 &gt;&gt;&lt;/title&gt;
-    &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
-    &lt;meta name="author" content="Hakim El Hattab"&gt;
-    
-    &lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;
-    &lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"&gt;
-    
-    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
-    
-    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/reveal.css"&gt;
-    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css" id="theme"&gt;
-    
-    &lt;!-- Theme used for syntax highlighting of code --&gt;
-    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/lib/css/zenburn.css"&gt;
-
-    &lt;!-- Printing and PDF exports --&gt;
-    &lt;script&gt;
-        var link = document.createElement( 'link' );
-        link.rel = 'stylesheet';
-        link.type = 'text/css';
-        link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cad-lab.github.io/cadlab_data/reveal/css/print/pdf.css' : 'https://cad-lab.github.io/cadlab_data/reveal/css/print/paper.css';
-        document.getElementsByTagName( 'head' )[0].appendChild( link );
-    &lt;/script&gt;
-
-    &lt;!--[if lt IE 9]&gt;
-    &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/html5shiv.js"&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;
-&lt;/head&gt;
-
-</t>
-<t tx="leo.20161006154651.5">&lt;head&gt;
-    &lt;meta charset="utf-8"&gt;
-    &lt;title&gt;    2016 Fall 計算機程式課程
-    &lt;&lt; 投影片標題 &gt;&gt;
-&lt;/title&gt;
-    &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
-    &lt;meta name="author" content="Hakim El Hattab"&gt;
-    
-    &lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;
-    &lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"&gt;
-    
-    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
-    
-    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/reveal.css"&gt;
-    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css" id="theme"&gt;
-    
-    &lt;!-- Theme used for syntax highlighting of code --&gt;
-    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/lib/css/zenburn.css"&gt;
-
-    &lt;!-- Printing and PDF exports --&gt;
-    &lt;script&gt;
-        var link = document.createElement( 'link' );
-        link.rel = 'stylesheet';
-        link.type = 'text/css';
-        link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cad-lab.github.io/cadlab_data/reveal/css/print/pdf.css' : 'https://cad-lab.github.io/cadlab_data/reveal/css/print/paper.css';
-        document.getElementsByTagName( 'head' )[0].appendChild( link );
-    &lt;/script&gt;
-
-    &lt;!--[if lt IE 9]&gt;
-    &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/html5shiv.js"&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;
-&lt;/head&gt;
-
-</t>
-<t tx="leo.20161006154651.6">(uncached) amd.20161004083800.3
-Diff...
-+ 2016 Fall 計算機程式課程
-</t>
-<t tx="leo.20161006154651.7">2016 Fall 計算機程式課程
-</t>
-<t tx="leo.20161006154651.8"></t>
 <t tx="leo.20161013161207.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -912,73 +781,6 @@ Diff...
 
 &lt;p&gt;此上課內容與之前一年級的內容有了新的不同，從課程中我們運用老師教的軟體，讓我們對繪圖有了新的體驗與認知。&lt;/p&gt;
 
-</t>
-<t tx="leo.20161020161828.1"></t>
-<t tx="leo.20161020161828.2">(uncached) amd.20161004095719.2
-Diff...
-- # 電腦輔助設計與實習
-+ # 2016Fall CPA 課程
-  
-  ### THE HTML PRESENTATION FRAMEWORK
-  
-  &lt;small&gt;
-  Created by [Hakim El Hattab](http://hakim.se)
-  [@hakimel](http://twitter.com/hakimel)
-  &lt;/small&gt;
-  
-  [blog](blog/index.html)
-</t>
-<t tx="leo.20161020161828.3"># 2016Fall CPA 課程
-
-### THE HTML PRESENTATION FRAMEWORK
-
-&lt;small&gt;
-Created by [Hakim El Hattab](http://hakim.se)
-[@hakimel](http://twitter.com/hakimel)
-&lt;/small&gt;
-
-[blog](blog/index.html)
-</t>
-<t tx="leo.20161020161828.4"># 電腦輔助設計與實習
-
-### THE HTML PRESENTATION FRAMEWORK
-
-&lt;small&gt;
-Created by [Hakim El Hattab](http://hakim.se)
-[@hakimel](http://twitter.com/hakimel)
-&lt;/small&gt;
-
-[blog](blog/index.html)
-</t>
-<t tx="leo.20161020161828.5">(uncached) leo.20161013161207.1
-Diff...
-  &lt;section data-markdown&gt;
-      &lt;script type="text/template"&gt;
-  @others
-      &lt;/script&gt;
-  &lt;/section&gt;
-  
-  
-  						
-</t>
-<t tx="leo.20161020161828.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161020161828.7">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-
-						
 </t>
 <t tx="leo.20161027152019.1"></t>
 <t tx="leo.20161027152019.2"></t>
