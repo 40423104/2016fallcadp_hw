@@ -19,7 +19,7 @@
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
-<v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
+<v t="amd.20151216151325.1"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2" a="E"><vh>head</vh>
 <v t="amd.20161004083800.3"><vh>&lt;&lt; 投影片標題 &gt;&gt;</vh></v>
