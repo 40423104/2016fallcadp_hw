@@ -12,7 +12,17 @@
 &lt;p&gt;我們提供了一個引導性教程，其中我們繪製演示視頻中表示的相同部分。&lt;/p&gt;
 &lt;p&gt;這涵蓋了 SolveSpace 的大部分基本功能，包括草圖、約束、擠出和布爾運算。&lt;/p&gt;
 &lt;p&gt;當我們首次運行SolveSpace時，我們將從一個空的部分開始。 最初，我們零件的視圖將被定向到XY平面上; 該平面的標籤顯示在屏幕的左下角（XY，深灰色）。 軸也由左下角的三個彩色箭頭指示: X、Y和Z軸分別繪製為紅色、綠色和藍色。&lt;/p&gt;
-&lt;p&gt;當我們將滑鼠懸停在草圖中的任何實體，約束或其他目標上時，該目標將以黃色突出顯示。 例如，當我們將滑鼠懸停在其上時，繪製為虛線正方形的XY平面將突出顯示。 YZ和ZX平面最初看起來像虛線，因為它們被邊查看; 但是當我們把鼠標放在他們上面時，它們仍然顯示為黃色。 同樣可以突出顯示X、Y和Z軸（以箭頭繪製）或原點（像所有點都繪製為綠色方塊）。&lt;/p&gt;</summary><category term="2016Fall w10 Solvespace"></category></entry><entry><title>2016Fall 11/17 Solvespace 平面四連桿機構模擬</title><link href="./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-11-17T13:13:00+08:00</published><updated>2016-11-17T13:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-17:./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;h2&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/h2&gt;
+&lt;p&gt;當我們將滑鼠懸停在草圖中的任何實體，約束或其他目標上時，該目標將以黃色突出顯示。 例如，當我們將滑鼠懸停在其上時，繪製為虛線正方形的XY平面將突出顯示。 YZ和ZX平面最初看起來像虛線，因為它們被邊查看; 但是當我們把鼠標放在他們上面時，它們仍然顯示為黃色。 同樣可以突出顯示X、Y和Z軸（以箭頭繪製）或原點（像所有點都繪製為綠色方塊）。&lt;/p&gt;
+&lt;h4&gt;Extrude (平行長出或除料)&lt;/h4&gt;
+&lt;h4&gt;Lathe (旋轉繞行長出或除料)&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/193886817" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/193886817"&gt;2016-12-01 22-41-29迴轉&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h4&gt;零組件繪圖練習&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="./../data/threejs/donut.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="./../data/w12/College_Student_Primer_Creo_2.pdf"&gt;W12 組立&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="./../data/threejs/w12.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;iframe src="./../data/threejs/w12.html" width="800" height="600"&gt;&lt;/iframe&gt;</summary><category term="2016Fall w10 Solvespace"></category></entry><entry><title>2016Fall 11/17 Solvespace 平面四連桿機構模擬</title><link href="./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-11-17T13:13:00+08:00</published><updated>2016-11-17T13:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-17:./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;h2&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/h2&gt;
 &lt;p&gt;
 &lt;p&gt;影片繪圖&lt;/p&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/193252892" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
