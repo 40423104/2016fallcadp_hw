@@ -69,7 +69,7 @@
 &lt;p&gt;使用 Virtualbox 虛擬主機執行 Windows 64 位元與 Ubuntu 64 位元環境中的編譯與延伸應用.&lt;/p&gt;
 &lt;p&gt;Virtualbox Ubuntu 64位元虛擬檔案: &lt;a href="http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi"&gt;http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi&lt;/a&gt; (只有在區網可以下載)&lt;/p&gt;
 &lt;p&gt;在虛擬主機中完成 Solvespace 編譯與執行的參考畫面:&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/solvespace/cadpa_w11_solvespace_compiled.png" width="800" /&gt;&lt;/p&gt;</summary><category term="2016Fall w10 Solvespace"></category></entry><entry><title>2016Fall 11/17 Solvespace 平面四連桿機構模擬</title><link href="./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-11-17T13:13:00+08:00</published><updated>2016-11-17T13:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-17:./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證
+&lt;p&gt;圖片&lt;/p&gt;</summary><category term="2016Fall w10 Solvespace"></category></entry><entry><title>2016Fall 11/17 Solvespace 平面四連桿機構模擬</title><link href="./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-11-17T13:13:00+08:00</published><updated>2016-11-17T13:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-17:./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證
 
 &lt;p&gt;影片繪圖&lt;/p&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/193252892" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
