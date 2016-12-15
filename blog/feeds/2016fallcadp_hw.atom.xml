@@ -42,7 +42,49 @@
 &lt;p&gt;&lt;a href="./../data/w12/College_Student_Primer_Creo_2.pdf"&gt;W12 組立&lt;/a&gt;&lt;/p&gt;
 &lt;iframe src="./../data/threejs/w12.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
-&lt;iframe src="./../data/threejs/w12.html" width="800" height="600"&gt;&lt;/iframe&gt;</summary><category term="2016Fall w10 Solvespace"></category></entry><entry><title>2016Fall 11/17 Solvespace 平面四連桿機構模擬</title><link href="./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-11-17T13:13:00+08:00</published><updated>2016-11-17T13:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-17:./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;h2&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/h2&gt;
+&lt;iframe src="./../data/threejs/w12.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;h4&gt;零件繪製影片&lt;/h4&gt;
+&lt;p&gt;有聲音&lt;/p&gt;
+&lt;h2&gt;方形&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/193877932" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/193877932"&gt;2016-12-01 21-29-37-方形&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;圓柱&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/193879815" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/193879815"&gt;2016-12-01 21-43-52圓柱&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;組合&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/193883398" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/193883398"&gt;2016-12-01 22-14-04-組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;利用 Solvespace, 以 &lt;a href="./../data/w12/College_Student_Primer_Creo_2.pdf"&gt;College_Student_Primer_Creo_2.pdf&lt;/a&gt; 為範本, 編寫一本 Solvespace 零組件導引 pdf 手冊.&lt;/p&gt;
+&lt;p&gt;利用 .md 檔案格式編寫, 建立導引手冊所需的圖文資料後, 設法利用 Pandoc 與 LaTeX 轉為 html 與 pdf 檔案.&lt;/p&gt;
+&lt;p&gt;首先必須設法編譯 Solvespace 原始碼, 取得 Windows 10 64 位元與 Ubuntu 16.04 64 位元環境下執行的 solvespace.exe 與 solvespace.&lt;/p&gt;
+&lt;p&gt;啟動 Solvespace 後, 在 View 功能表下確定所使用的尺寸單位, 選擇 mm 作為繪圖單位.&lt;/p&gt;
+&lt;p&gt;根據尺寸繪製一個 block.&lt;/p&gt;
+&lt;h4&gt;Export Triangle Mesh&lt;/h4&gt;
+&lt;p&gt;STL 格式&lt;/p&gt;
+&lt;p&gt;將零件檔案轉出 STL 格式後 (binary or ASCII format definitions), 進入倉儲後, 利用 &lt;a href="https://help.github.com/articles/3d-file-viewer/"&gt;Github 內建的 stl viewer 功能&lt;/a&gt;展示.&lt;/p&gt;
+&lt;p&gt;three.js&lt;/p&gt;
+&lt;iframe src="./../data/threejs/donut.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="./../data/w12/College_Student_Primer_Creo_2.pdf"&gt;W12 組立&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="./../data/threejs/w12.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;iframe src="./../data/threejs/w12b.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;2. Assembly (零件組立)&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://solvespace.com/box.pl"&gt;http://solvespace.com/box.pl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To start, we would like to define the orientation of the part. We can do that by locking one of the part's normals in the same orientation as one of our coordinate axes. Here, a good choice would be to constrain any of the base's normals—which are drawn as blue arrows—in the same orientation as our coordinate system's Z axis, which is also drawn as a blue arrow, in this view pointing approximately up from the origin. Select those two normals by left-clicking them, and choose Constrain → Same Orientation, or the equivalent constraint from the toolbar.&lt;/p&gt;
+&lt;p&gt;The two normals are now each marked with a magenta X, which is visible above. (It doesn't matter which of the normals on the part were chosen to constrain, since they all point in the same direction. The choice is arbitrary.) This means that those two normals are constrained to point in the same direction (i.e., parallel); but it also locks the twist of the part about that axis, so it fully constrains the part's orientation. The same-orientation constraint is useful, because it completely specifies a part's orientation with a single constraint.&lt;/p&gt;
+&lt;p&gt;We can try to drag the part's orientation and rotation now. We will find that it is still possible to translate the part anywhere, but impossible to rotate it, because that rotation is now fixed. To define the translation, we can use a point-coincident constraint. Select the two points marked in red in the image above, and choose Constrain → On Point. The two points will now be constrained to be coincident, locking the imported part's translation. The imported part is now fully constrained.&lt;/p&gt;
+&lt;h3&gt;3. Linkages (fourbar &amp;amp; multilink) (四連桿與多連桿運動模擬)&lt;/h3&gt;
+&lt;p&gt;四連桿:&lt;/p&gt;
+&lt;p&gt;利用線架構完成四連桿模擬後, 將 3D 零件以點重合, 點在面與點在線上約束各連桿後完成.&lt;/p&gt;
+&lt;p&gt;多連桿:  &lt;a href="http://solvespace.com/linkage.pl"&gt;http://solvespace.com/linkage.pl&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;4. Compiled &amp;amp; API (編譯與延伸應用)&lt;/h3&gt;
+&lt;p&gt;使用 Virtualbox 虛擬主機執行 Windows 64 位元與 Ubuntu 64 位元環境中的編譯與延伸應用.&lt;/p&gt;
+&lt;p&gt;Virtualbox Ubuntu 64位元虛擬檔案: &lt;a href="http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi"&gt;http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi&lt;/a&gt; (只有在區網可以下載)&lt;/p&gt;
+&lt;p&gt;在虛擬主機中完成 Solvespace 編譯與執行的參考畫面:&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/solvespace/cadpa_w11_solvespace_compiled.png" width="800" /&gt;&lt;/p&gt;</summary><category term="2016Fall w10 Solvespace"></category></entry><entry><title>2016Fall 11/17 Solvespace 平面四連桿機構模擬</title><link href="./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-11-17T13:13:00+08:00</published><updated>2016-11-17T13:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-17:./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;h2&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/h2&gt;
 &lt;p&gt;
 &lt;p&gt;影片繪圖&lt;/p&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/193252892" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
