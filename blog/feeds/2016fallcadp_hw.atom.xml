@@ -65,11 +65,11 @@
 &lt;p&gt;We can try to drag the part's orientation and rotation now. We will find that it is still possible to translate the part anywhere, but impossible to rotate it, because that rotation is now fixed. To define the translation, we can use a point-coincident constraint. Select the two points marked in red in the image above, and choose Constrain → On Point. The two points will now be constrained to be coincident, locking the imported part's translation. The imported part is now fully constrained.
 &lt;iframe src="./../data/threejs/22222.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;3. Linkages (fourbar &amp;amp; multilink) (四連桿與多連桿運動模擬)&lt;/h3&gt;
-&lt;p&gt;四連桿:
-&lt;a href="http://imgur.com/fPvX0pq"&gt;&lt;img src="http://i.imgur.com/fPvX0pq.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;h4&gt;四連桿:&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/fPvX0pq"&gt;&lt;img src="http://i.imgur.com/fPvX0pq.png" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;a href="http://imgur.com/4VDyFOe"&gt;&lt;img src="http://i.imgur.com/4VDyFOe.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;多連桿:  &lt;a href="http://solvespace.com/linkage.pl"&gt;http://solvespace.com/linkage.pl&lt;/a&gt;
-&lt;a href="http://imgur.com/jDGJZSx"&gt;&lt;img src="http://i.imgur.com/jDGJZSx.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;h4&gt;多連桿:  &lt;a href="http://solvespace.com/linkage.pl"&gt;http://solvespace.com/linkage.pl&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/jDGJZSx"&gt;&lt;img src="http://i.imgur.com/jDGJZSx.png" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;a href="http://imgur.com/MzeWzEp"&gt;&lt;img src="http://i.imgur.com/MzeWzEp.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;4. Compiled &amp;amp; API (編譯與延伸應用)&lt;/h3&gt;
 &lt;p&gt;使用 Virtualbox 虛擬主機執行 Windows 64 位元與 Ubuntu 64 位元環境中的編譯與延伸應用.&lt;/p&gt;
