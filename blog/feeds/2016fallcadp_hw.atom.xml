@@ -21,17 +21,19 @@
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/194388063" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/194388063"&gt;W6&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="2016Fall w13 Onshape"></category></entry><entry><title>2016Fall 12/01 Solvespace作業</title><link href="./2016fall-1201-solvespacezuo-ye.html" rel="alternate"></link><published>2016-12-01T16:13:00+08:00</published><updated>2016-12-01T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-01:./2016fall-1201-solvespacezuo-ye.html</id><summary type="html">&lt;p&gt;有關 Solvespace 零件組件
 &lt;/p&gt;
-&lt;h4&gt;零件繪製影片&lt;/h4&gt;
-&lt;h2&gt;方形&lt;/h2&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/193877932" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h2&gt;零件繪製影片&lt;/h2&gt;
+&lt;h4&gt;方形&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="./../data/threejs/3333.html" width="800" height="600"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/193877932" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/193877932"&gt;2016-12-01 21-29-37-方形&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h2&gt;圓柱&lt;/h2&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/193879815" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h4&gt;圓柱&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="./../data/threejs/33331.html" width="800" height="600"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/193879815" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/193879815"&gt;2016-12-01 21-43-52圓柱&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h2&gt;組合&lt;/h2&gt;
+&lt;h4&gt;組合&lt;/h4&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/193883398" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/193883398"&gt;2016-12-01 22-14-04-組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;有聲音&lt;/p&gt;</summary><category term="2016Fall w13 Solvespace"></category></entry><entry><title>2016Fall 11/24 Solvespace介紹</title><link href="./2016fall-1124-solvespacejie-shao.html" rel="alternate"></link><published>2016-11-24T14:13:00+08:00</published><updated>2016-11-24T14:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-24:./2016fall-1124-solvespacejie-shao.html</id><summary type="html">&lt;p&gt;有關 Solvespace 零件, 組件, 機構模擬等功能介紹, 程式編譯與 API 延伸
+&lt;h4&gt;有聲音&lt;/h4&gt;</summary><category term="2016Fall w13 Solvespace"></category></entry><entry><title>2016Fall 11/24 Solvespace介紹</title><link href="./2016fall-1124-solvespacejie-shao.html" rel="alternate"></link><published>2016-11-24T14:13:00+08:00</published><updated>2016-11-24T14:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-24:./2016fall-1124-solvespacejie-shao.html</id><summary type="html">&lt;p&gt;有關 Solvespace 零件, 組件, 機構模擬等功能介紹, 程式編譯與 API 延伸
 &lt;/p&gt;
 &lt;h2&gt;Solvespace&lt;/h2&gt;
 &lt;h3&gt;1. Parts (零件繪製)&lt;/h3&gt;
@@ -52,7 +54,7 @@
 &lt;iframe src="./../data/threejs/oooo.html" width="800" height="600"&gt;&lt;/iframe&gt;
 &lt;iframe src="https://player.vimeo.com/video/193886817" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/193886817"&gt;2016-12-01 22-41-29迴轉&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h2&gt;影片&lt;/h2&gt;
+&lt;h4&gt;影片&lt;/h4&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/193886817" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/193886817"&gt;2016-12-01 22-41-29迴轉&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h4&gt;零組件繪圖練習&lt;/h4&gt;
@@ -75,8 +77,8 @@
 &lt;p&gt;使用 Virtualbox 虛擬主機執行 Windows 64 位元與 Ubuntu 64 位元環境中的編譯與延伸應用.&lt;/p&gt;
 &lt;p&gt;Virtualbox Ubuntu 64位元虛擬檔案: &lt;a href="http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi"&gt;http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi&lt;/a&gt; (只有在區網可以下載)&lt;/p&gt;
 &lt;p&gt;在虛擬主機中完成 Solvespace 編譯與執行的參考畫面:&lt;/p&gt;
-&lt;p&gt;圖片&lt;/p&gt;
-&lt;h2&gt;補充&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/c1arWax"&gt;&lt;img src="http://i.imgur.com/c1arWax.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;補充&lt;/h3&gt;
 &lt;p&gt;html檔案要使用SciTE打開
 &lt;a href="http://imgur.com/kxjDCUt"&gt;&lt;img src="http://i.imgur.com/kxjDCUt.png" title="source: imgur.com" /&gt;&lt;/a&gt;
 更改為https
