@@ -330,25 +330,31 @@ init_mathjax();
 <p>當我們首次運行SolveSpace時，我們將從一個空的部分開始。 最初，我們零件的視圖將被定向到XY平面上; 該平面的標籤顯示在屏幕的左下角（XY，深灰色）。 軸也由左下角的三個彩色箭頭指示: X、Y和Z軸分別繪製為紅色、綠色和藍色。</p>
 <p>當我們將滑鼠懸停在草圖中的任何實體，約束或其他目標上時，該目標將以黃色突出顯示。 例如，當我們將滑鼠懸停在其上時，繪製為虛線正方形的XY平面將突出顯示。 YZ和ZX平面最初看起來像虛線，因為它們被邊查看; 但是當我們把鼠標放在他們上面時，它們仍然顯示為黃色。 同樣可以突出顯示X、Y和Z軸（以箭頭繪製）或原點（像所有點都繪製為綠色方塊）。</p>
 <h4>Extrude (平行長出或除料)</h4>
+<p><iframe src="./../data/threejs/111111.html" width="800" height="600"></iframe></p>
 <h4>Lathe (旋轉繞行長出或除料)</h4>
+<p><iframe src="./../data/threejs/000001.html" width="800" height="600"></iframe>
+<iframe src="./../data/threejs/oooo.html" width="800" height="600"></iframe>
+<iframe src="https://player.vimeo.com/video/193886817" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/193886817">2016-12-01 22-41-29迴轉</a> from <a href="https://vimeo.com/user44900188">Yan syuan</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
+<h2>影片</h2>
 <p><iframe src="https://player.vimeo.com/video/193886817" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/193886817">2016-12-01 22-41-29迴轉</a> from <a href="https://vimeo.com/user44900188">Yan syuan</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
 <h4>零組件繪圖練習</h4>
 <p><iframe src="./../data/threejs/donut.html" width="800" height="600"></iframe></p>
 <p><a href="./../data/w12/College_Student_Primer_Creo_2.pdf">W12 組立</a></p>
-<iframe src="./../data/threejs/w12.html" width="800" height="600"></iframe>
-
-<iframe src="./../data/threejs/w12.html" width="800" height="600"></iframe>
-
 <h3>2. Assembly (零件組立)</h3>
 <p><a href="http://solvespace.com/box.pl">http://solvespace.com/box.pl</a></p>
 <p>To start, we would like to define the orientation of the part. We can do that by locking one of the part's normals in the same orientation as one of our coordinate axes. Here, a good choice would be to constrain any of the base's normals—which are drawn as blue arrows—in the same orientation as our coordinate system's Z axis, which is also drawn as a blue arrow, in this view pointing approximately up from the origin. Select those two normals by left-clicking them, and choose Constrain → Same Orientation, or the equivalent constraint from the toolbar.</p>
 <p>The two normals are now each marked with a magenta X, which is visible above. (It doesn't matter which of the normals on the part were chosen to constrain, since they all point in the same direction. The choice is arbitrary.) This means that those two normals are constrained to point in the same direction (i.e., parallel); but it also locks the twist of the part about that axis, so it fully constrains the part's orientation. The same-orientation constraint is useful, because it completely specifies a part's orientation with a single constraint.</p>
-<p>We can try to drag the part's orientation and rotation now. We will find that it is still possible to translate the part anywhere, but impossible to rotate it, because that rotation is now fixed. To define the translation, we can use a point-coincident constraint. Select the two points marked in red in the image above, and choose Constrain → On Point. The two points will now be constrained to be coincident, locking the imported part's translation. The imported part is now fully constrained.</p>
+<p>We can try to drag the part's orientation and rotation now. We will find that it is still possible to translate the part anywhere, but impossible to rotate it, because that rotation is now fixed. To define the translation, we can use a point-coincident constraint. Select the two points marked in red in the image above, and choose Constrain → On Point. The two points will now be constrained to be coincident, locking the imported part's translation. The imported part is now fully constrained.
+<iframe src="./../data/threejs/22222.html" width="800" height="600"></iframe></p>
 <h3>3. Linkages (fourbar &amp; multilink) (四連桿與多連桿運動模擬)</h3>
-<p>四連桿:</p>
-<p>利用線架構完成四連桿模擬後, 將 3D 零件以點重合, 點在面與點在線上約束各連桿後完成.</p>
-<p>多連桿:  <a href="http://solvespace.com/linkage.pl">http://solvespace.com/linkage.pl</a></p>
+<p>四連桿:
+<a href="http://imgur.com/fPvX0pq"><img src="http://i.imgur.com/fPvX0pq.png" title="source: imgur.com" /></a>
+<a href="http://imgur.com/4VDyFOe"><img src="http://i.imgur.com/4VDyFOe.png" title="source: imgur.com" /></a></p>
+<p>多連桿:  <a href="http://solvespace.com/linkage.pl">http://solvespace.com/linkage.pl</a>
+<a href="http://imgur.com/jDGJZSx"><img src="http://i.imgur.com/jDGJZSx.png" title="source: imgur.com" /></a>
+<a href="http://imgur.com/MzeWzEp"><img src="http://i.imgur.com/MzeWzEp.png" title="source: imgur.com" /></a></p>
 <h3>4. Compiled &amp; API (編譯與延伸應用)</h3>
 <p>使用 Virtualbox 虛擬主機執行 Windows 64 位元與 Ubuntu 64 位元環境中的編譯與延伸應用.</p>
 <p>Virtualbox Ubuntu 64位元虛擬檔案: <a href="http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi">http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi</a> (只有在區網可以下載)</p>
