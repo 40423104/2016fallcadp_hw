@@ -56,10 +56,8 @@
 &lt;p&gt;&lt;a href="https://vimeo.com/193886817"&gt;2016-12-01 22-41-29迴轉&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h4&gt;影片&lt;/h4&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/193886817" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/193886817"&gt;2016-12-01 22-41-29迴轉&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h4&gt;零組件繪圖練習&lt;/h4&gt;
-&lt;p&gt;&lt;iframe src="./../data/threejs/donut.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="./../data/w12/College_Student_Primer_Creo_2.pdf"&gt;W12 組立&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/193886817"&gt;2016-12-01 22-41-29迴轉&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;a href="./../data/w12/College_Student_Primer_Creo_2.pdf"&gt;W12 組立&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;2. Assembly (零件組立)&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://solvespace.com/box.pl"&gt;http://solvespace.com/box.pl&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To start, we would like to define the orientation of the part. We can do that by locking one of the part's normals in the same orientation as one of our coordinate axes. Here, a good choice would be to constrain any of the base's normals—which are drawn as blue arrows—in the same orientation as our coordinate system's Z axis, which is also drawn as a blue arrow, in this view pointing approximately up from the origin. Select those two normals by left-clicking them, and choose Constrain → Same Orientation, or the equivalent constraint from the toolbar.&lt;/p&gt;
