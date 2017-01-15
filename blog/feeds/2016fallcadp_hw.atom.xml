@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/2016fallcadp_hw.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T16:13:00+08:00</updated><entry><title>2017Fall 01/12 電腦輔助設計實習課程總結</title><link href="./2017fall-0112-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-12T16:13:00+08:00</published><updated>2017-01-12T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2017-01-12:./2017fall-0112-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;p&gt;這學期電腦輔助設計實習課程總結
-&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/2016fallcadp_hw.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T16:13:00+08:00</updated><entry><title>2017Fall 01/12 電腦輔助設計實習課程總結</title><link href="./2017fall-0112-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-12T16:13:00+08:00</published><updated>2017-01-12T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2017-01-12:./2017fall-0112-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;h4&gt;這學期電腦輔助設計實習課程總結&lt;/h4&gt;
+
+
 &lt;h2&gt;課程總結&lt;/h2&gt;
 &lt;h3&gt;Onshape&lt;/h3&gt;
 &lt;p&gt;利用Onshape繪製零件與組合圖，透過複製一些檔案能在Onshape中將檔案做修改與協同&lt;/p&gt;
@@ -55,12 +56,12 @@
 &lt;p&gt;&lt;iframe src="./../data/3D/40423104plate3D.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;組合&lt;/h3&gt;
 &lt;h4&gt;影片&lt;/h4&gt;
-&lt;p&gt;&lt;iframe width="640" height="344" src="https://www.youtube.com/embed/CjLp30gmh90" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=CjLp30gmh90"&gt;onshape-20161229組合 &lt;/a&gt; from &lt;a href="https://www.youtube.com/channel/UCNGRmPgOMhGJmZw_ygnC5UA"&gt;40423104 顏暄&lt;/a&gt; on &lt;a href="https://www.youtube.com/?gl=TW&amp;hl=zh-tw"&gt;YouTube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;第一部分&lt;/p&gt;
+&lt;iframe width="640" height="344" src="https://www.youtube.com/embed/CjLp30gmh90" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=CjLp30gmh90"&gt;onshape-20161229組合 &lt;/a&gt; from &lt;a href="https://www.youtube.com/channel/UCNGRmPgOMhGJmZw_ygnC5UA"&gt;40423104 顏暄&lt;/a&gt; on &lt;a href="https://www.youtube.com/?gl=TW&amp;hl=zh-tw"&gt;YouTube&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;第二部分&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/199532033" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/199532033"&gt;3D組合-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;&lt;a href="https://vimeo.com/199532033"&gt;3D組合-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h4&gt;圖&lt;/h4&gt;
 &lt;p&gt;&lt;iframe src="./../data/3D/40423104-all-3D.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="2016Fall w16 Onshape"></category></entry><entry><title>2016Fall 12/30 MECHANISM TUTORIAL</title><link href="./2016fall-1230-mechanism-tutorial.html" rel="alternate"></link><published>2016-12-24T16:13:00+08:00</published><updated>2016-12-24T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-24:./2016fall-1230-mechanism-tutorial.html</id><summary type="html">&lt;h4&gt;使用Onshape繪製及連桿組裝影片&lt;/h4&gt;
 
@@ -74,8 +75,9 @@
 
 &lt;h2&gt;組合圖&lt;/h2&gt;
 &lt;p&gt;&lt;iframe width="640" height="345" src="https://www.youtube.com/embed/HtGPMqM8HQo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HtGPMqM8HQo"&gt;onshape-20161229組合 &lt;/a&gt; from &lt;a href="https://www.youtube.com/channel/UCNGRmPgOMhGJmZw_ygnC5UA"&gt;40423104 顏暄&lt;/a&gt; on &lt;a href="https://www.youtube.com/?gl=TW&amp;hl=zh-tw"&gt;YouTube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="2016Fall w17 Onshape"></category></entry><entry><title>2016Fall 12/08 Onshape</title><link href="./2016fall-1208-onshape.html" rel="alternate"></link><published>2016-12-08T16:13:00+08:00</published><updated>2016-12-08T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-08:./2016fall-1208-onshape.html</id><summary type="html">&lt;p&gt;Onshape 作業→以下是我負責部分
-&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HtGPMqM8HQo"&gt;onshape-20161229組合 &lt;/a&gt; from &lt;a href="https://www.youtube.com/channel/UCNGRmPgOMhGJmZw_ygnC5UA"&gt;40423104 顏暄&lt;/a&gt; on &lt;a href="https://www.youtube.com/?gl=TW&amp;hl=zh-tw"&gt;YouTube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="2016Fall w17 Onshape"></category></entry><entry><title>2016Fall 12/08 Onshape</title><link href="./2016fall-1208-onshape.html" rel="alternate"></link><published>2016-12-08T16:13:00+08:00</published><updated>2016-12-08T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-08:./2016fall-1208-onshape.html</id><summary type="html">&lt;h4&gt;Onshape 作業→以下是我負責部分&lt;/h4&gt;
+
+
 &lt;h3&gt;W1&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/190893952" width="640" height="368" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/190893952"&gt;20161110 ONSHAPE-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -94,8 +96,9 @@
 &lt;p&gt;&lt;a href="https://vimeo.com/194788600"&gt;W5&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h3&gt;W6&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/194388063" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/194388063"&gt;W6&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="2016Fall w14 Onshape"></category></entry><entry><title>2016Fall 12/01 Solvespace作業</title><link href="./2016fall-1201-solvespacezuo-ye.html" rel="alternate"></link><published>2016-12-01T16:13:00+08:00</published><updated>2016-12-01T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-01:./2016fall-1201-solvespacezuo-ye.html</id><summary type="html">&lt;p&gt;有關 Solvespace 零件組件
-&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/194388063"&gt;W6&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="2016Fall w14 Onshape"></category></entry><entry><title>2016Fall 12/01 Solvespace作業</title><link href="./2016fall-1201-solvespacezuo-ye.html" rel="alternate"></link><published>2016-12-01T16:13:00+08:00</published><updated>2016-12-01T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-01:./2016fall-1201-solvespacezuo-ye.html</id><summary type="html">&lt;h4&gt;有關 Solvespace 零件組件&lt;/h4&gt;
+
+
 &lt;h2&gt;零件繪製影片&lt;/h2&gt;
 &lt;h4&gt;方形&lt;/h4&gt;
 &lt;p&gt;&lt;iframe src="./../data/threejs/3333.html" width="800" height="600"&gt;&lt;/iframe&gt;
@@ -109,8 +112,9 @@
 &lt;p&gt;&lt;iframe src="./../data/threejs/all.html" width="800" height="600"&gt;&lt;/iframe&gt;
 &lt;iframe src="https://player.vimeo.com/video/193883398" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/193883398"&gt;2016-12-01 22-14-04-組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h4&gt;有聲音&lt;/h4&gt;</summary><category term="2016Fall w13 Solvespace"></category></entry><entry><title>2016Fall 11/24 Solvespace介紹</title><link href="./2016fall-1124-solvespacejie-shao.html" rel="alternate"></link><published>2016-11-24T14:13:00+08:00</published><updated>2016-11-24T14:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-24:./2016fall-1124-solvespacejie-shao.html</id><summary type="html">&lt;p&gt;有關 Solvespace 零件, 組件, 機構模擬等功能介紹, 程式編譯與 API 延伸
-&lt;/p&gt;
+&lt;h4&gt;有聲音&lt;/h4&gt;</summary><category term="2016Fall w13 Solvespace"></category></entry><entry><title>2016Fall 11/24 Solvespace介紹</title><link href="./2016fall-1124-solvespacejie-shao.html" rel="alternate"></link><published>2016-11-24T14:13:00+08:00</published><updated>2016-11-24T14:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-24:./2016fall-1124-solvespacejie-shao.html</id><summary type="html">&lt;h4&gt;有關 Solvespace 零件, 組件, 機構模擬等功能介紹, 程式編譯與 API 延伸&lt;/h4&gt;
+
+
 &lt;h2&gt;Solvespace&lt;/h2&gt;
 &lt;h3&gt;1. Parts (零件繪製)&lt;/h3&gt;
 &lt;p&gt;範例檔案: &lt;a href="http://solvespace.com/bracket.pl"&gt;http://solvespace.com/bracket.pl&lt;/a&gt;&lt;/p&gt;
@@ -157,8 +161,8 @@
 &lt;a href="http://imgur.com/kxjDCUt"&gt;&lt;img src="http://i.imgur.com/kxjDCUt.png" title="source: imgur.com" /&gt;&lt;/a&gt;
 更改為https
 &lt;a href="http://imgur.com/uwJzdzr"&gt;&lt;img src="http://i.imgur.com/uwJzdzr.png" title="source: imgur.com" /&gt;&lt;/a&gt;
-儲存後即完成&lt;/p&gt;</summary><category term="2016Fall w10 Solvespace"></category></entry><entry><title>2016Fall 11/17 Solvespace 平面四連桿機構模擬</title><link href="./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-11-17T13:13:00+08:00</published><updated>2016-11-17T13:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-17:./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證
-
+儲存後即完成&lt;/p&gt;</summary><category term="2016Fall w10 Solvespace"></category></entry><entry><title>2016Fall 11/17 Solvespace 平面四連桿機構模擬</title><link href="./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-11-17T13:13:00+08:00</published><updated>2016-11-17T13:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-17:./2016fall-1117-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;h4&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/h4&gt;
+&lt;p&gt;
 &lt;p&gt;影片繪圖&lt;/p&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/193252892" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -176,8 +180,8 @@
 
 首先利用 Brython, 讀取 data 目錄中的 cadpa_w10_4bar.csv 座標檔案, 然後以 splitlines() 及 split() 取出各點的 x 座標與 y 座標後, 將點連成路徑曲線如下:&lt;/p&gt;
 
-&lt;!-- 導入 Brython 標準程式庫 --&gt;
-
+&lt;p&gt;&lt;a href="http://imgur.com/4Et60qu"&gt;&lt;img src="http://i.imgur.com/4Et60qu.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;&lt;/p&gt;
 &lt;script type="text/javascript" 
     src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
 &lt;/script&gt;
@@ -242,8 +246,9 @@ ctx.strokeStyle = "blue"
 # 實際執行畫線
 ctx.stroke()
 ctx.closePath()
-&lt;/script&gt;</summary><category term="2016Fall w9 Solvespace 平面四連桿機構模擬"></category></entry><entry><title>2016Fall 11/03 四連桿機構(一)</title><link href="./2016fall-1103-si-lian-gan-ji-gou-yi.html" rel="alternate"></link><published>2016-11-03T13:13:00+08:00</published><updated>2016-11-03T13:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-03:./2016fall-1103-si-lian-gan-ji-gou-yi.html</id><summary type="html">&lt;p&gt;四連桿機構模擬
-&lt;/p&gt;
+&lt;/script&gt;</summary><category term="2016Fall w9 Solvespace 平面四連桿機構模擬"></category></entry><entry><title>2016Fall 11/03 四連桿機構(一)</title><link href="./2016fall-1103-si-lian-gan-ji-gou-yi.html" rel="alternate"></link><published>2016-11-03T13:13:00+08:00</published><updated>2016-11-03T13:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-11-03:./2016fall-1103-si-lian-gan-ji-gou-yi.html</id><summary type="html">&lt;h4&gt;四連桿機構模擬&lt;/h4&gt;
+
+
 &lt;h3&gt;四連桿機構模擬&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/189118736" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/189118736"&gt;2016-10-27_16-22-06&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -251,8 +256,8 @@ ctx.closePath()
 &lt;p&gt;&lt;p&gt;1.可參考 https://mdecourse.github.io/2016fallcadpa/blog/2016fall-w7-si-lian-gan-ji-gou-mo-ni.html 繪製&lt;/p&gt;
 &lt;p&gt;2. http://solvespace.com/linkage.pl &lt;/p&gt;
 &lt;p&gt;3.使用solvespace畫四連桿機構&lt;/p&gt;
-&lt;p&gt;4.路徑操作請參考以上影片做操作&lt;/p&gt;&lt;/p&gt;</summary><category term="2016Fall w7 四連桿機構模擬"></category></entry><entry><title>2016Fall 10/27 solvespace</title><link href="./2016fall-1027-solvespace.html" rel="alternate"></link><published>2016-10-27T14:54:00+08:00</published><updated>2016-10-27T14:54:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-10-27:./2016fall-1027-solvespace.html</id><summary type="html">&lt;p&gt;零件繪製
-&lt;hr/&gt;
+&lt;p&gt;4.路徑操作請參考以上影片做操作&lt;/p&gt;&lt;/p&gt;</summary><category term="2016Fall w7 四連桿機構模擬"></category></entry><entry><title>2016Fall 10/27 solvespace</title><link href="./2016fall-1027-solvespace.html" rel="alternate"></link><published>2016-10-27T14:54:00+08:00</published><updated>2016-10-27T14:54:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-10-27:./2016fall-1027-solvespace.html</id><summary type="html">&lt;h4&gt;初階solvespace立體圖繪製&lt;/h4&gt;
+&lt;p&gt;&lt;hr/&gt;
 &lt;/p&gt;
 &lt;h3&gt;零件繪製&lt;/h3&gt;
 &lt;p&gt;&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/186445993" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
