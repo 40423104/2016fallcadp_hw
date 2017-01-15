@@ -25,16 +25,53 @@
 
 &lt;h4&gt;&lt;a href="https://40423104.github.io/2016fallcadp_hw/blog/2016fall-1027-solvespace.html"&gt;W6-10/27 基本立體圖繪製&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;影片&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/user44900188"&gt;有關Solvespace和Onshape的影片網頁vimeo&lt;/a&gt;&lt;/p&gt;</summary><category term="2016Fall W18"></category></entry><entry><title>2016Fall 12/24 Solvespace</title><link href="./2016fall-1224-solvespace.html" rel="alternate"></link><published>2016-12-24T16:13:00+08:00</published><updated>2016-12-24T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-24:./2016fall-1224-solvespace.html</id><summary type="html">&lt;p&gt;Solvespace 作業 3D
-&lt;/p&gt;
-&lt;p&gt;影片還沒上傳&lt;/p&gt;</summary><category term="2016Fall w16 Onshape"></category></entry><entry><title>2016Fall 12/30 MECHANISM TUTORIAL</title><link href="./2016fall-1230-mechanism-tutorial.html" rel="alternate"></link><published>2016-12-24T16:13:00+08:00</published><updated>2016-12-24T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-24:./2016fall-1230-mechanism-tutorial.html</id><summary type="html">&lt;p&gt;使用Onshape繪製及組合
-&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/user44900188"&gt;有關Solvespace和Onshape的影片網頁vimeo&lt;/a&gt;&lt;/p&gt;</summary><category term="2016Fall W18"></category></entry><entry><title>2016Fall 12/24 Solvespace 3D列印繪製</title><link href="./2016fall-1224-solvespace-3dlie-yin-hui-zhi.html" rel="alternate"></link><published>2016-12-24T16:13:00+08:00</published><updated>2016-12-24T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-24:./2016fall-1224-solvespace-3dlie-yin-hui-zhi.html</id><summary type="html">&lt;h4&gt;利用Solvespace繪製3D列印機零件及組裝零件&lt;/h4&gt;
+
+
+&lt;h2&gt;3D列印機&lt;/h2&gt;
+&lt;h3&gt;cylinder&lt;/h3&gt;
+&lt;h4&gt;影片&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/199521592" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199521592"&gt;3D-cylinder&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h4&gt;圖&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="./../data/3D/40423104cylinder-3D.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;head&lt;/h3&gt;
+&lt;h4&gt;影片&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/199527235" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199527235"&gt;3D-head&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h4&gt;圖&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="./../data/3D/40423104head-3D.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;link&lt;/h3&gt;
+&lt;h4&gt;影片&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/199527745" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199527745"&gt;3D-link&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h4&gt;圖&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="./../data/3D/40423104link-3D.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;plate&lt;/h3&gt;
+&lt;h4&gt;影片&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/199528646" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199528646"&gt;3D-plate&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h4&gt;圖&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="./../data/3D/40423104plate3D.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;組合&lt;/h3&gt;
+&lt;h4&gt;影片&lt;/h4&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CjLp30gmh90" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/199532033" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/199532033"&gt;3D組合-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;圖&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="./../data/3D/40423104-all-3D.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="2016Fall w16 Onshape"></category></entry><entry><title>2016Fall 12/30 MECHANISM TUTORIAL</title><link href="./2016fall-1230-mechanism-tutorial.html" rel="alternate"></link><published>2016-12-24T16:13:00+08:00</published><updated>2016-12-24T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-24:./2016fall-1230-mechanism-tutorial.html</id><summary type="html">&lt;h4&gt;使用Onshape繪製及連桿組裝影片&lt;/h4&gt;
+
+
 &lt;h2&gt;零件圖&lt;/h2&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/198167203" width="640" height="345" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/198167203"&gt;20161229-1零件圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/198167657" width="640" height="345" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/198167657"&gt;20170105 163311&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="2016Fall w17 Onshape"></category></entry><entry><title>2016Fall 12/08 Onshape</title><link href="./2016fall-1208-onshape.html" rel="alternate"></link><published>2016-12-08T16:13:00+08:00</published><updated>2016-12-08T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-08:./2016fall-1208-onshape.html</id><summary type="html">&lt;p&gt;Onshape 作業→以下是我負責部分
+&lt;p&gt;&lt;a href="https://vimeo.com/198167657"&gt;20170105 163311&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;Yan syuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;組合圖&lt;/h2&gt;</summary><category term="2016Fall w17 Onshape"></category></entry><entry><title>2016Fall 12/08 Onshape</title><link href="./2016fall-1208-onshape.html" rel="alternate"></link><published>2016-12-08T16:13:00+08:00</published><updated>2016-12-08T16:13:00+08:00</updated><author><name>40423104 syuan</name></author><id>tag:,2016-12-08:./2016fall-1208-onshape.html</id><summary type="html">&lt;p&gt;Onshape 作業→以下是我負責部分
 &lt;/p&gt;
 &lt;h3&gt;W1&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/190893952" width="640" height="368" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
